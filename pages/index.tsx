@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div className="max-w-4xl mx-auto px-8 py-4 w-full">
+        <div className="mx-auto w-full max-w-4xl px-8 py-4">
           <p className="text-xl">Hello world!</p>
         </div>
       </main>
